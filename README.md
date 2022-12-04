@@ -1,2 +1,3 @@
-# Ünal Emirhan Alpaslan Başlangıcında UygICI yazanlar uygulama ssi diğerleri kodlar
+# Ünal Emirhan Alpaslan Başlangıcında Uyg09-SS olanlar ionic lab üzerinden 
+Uyg09-Code-SS VSC içerisindeki ss i 
 
